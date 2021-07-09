@@ -1,0 +1,38 @@
+.body_backgorund {
+    background-image: url("gradient.png");
+    background-position: center;
+    background-size: cover;
+  }
+  body{
+    cursor: pointer;
+  }
+  h1
+  {
+      color:floralwhite; 
+      font-size: 40px;
+  }
+  #paintcanvas
+  {
+      border-width:10px;
+      background-color: white; 
+      border-style:ridge;
+  }
+
+  #b_clear {
+    background-color:orangered;
+    border-style:ridge;
+    border:purple;
+    border-width: 5cm;
+    color: white;
+    padding: 10px 42px;
+    font-size: 16px;
+  }
+
+  input
+  {
+    margin-right: 20px;
+  }
+
+  #b_clear:hover{
+    cursor: pointer;
+  }
